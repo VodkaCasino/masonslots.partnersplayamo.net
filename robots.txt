@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://masonslots.partnersplayamo.net/sitemap.xml
